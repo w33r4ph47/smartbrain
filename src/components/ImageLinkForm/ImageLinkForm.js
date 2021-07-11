@@ -8,7 +8,7 @@ const ImageLinkForm = () => {
         {'This Magic Brain will detect faces in your pictures'}
       </p>
       <div className='center'>
-        <div className='form center pa4 shadow-5' style={{ width: '40%' }}>
+        <div className='form center pa4 shadow-5'>
           <input type='text' className='f5 pa2 w-70'/>
           <button className='f5 w-30'>Detect</button>
         </div>
